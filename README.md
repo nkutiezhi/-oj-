@@ -45,7 +45,7 @@
 
 提交方案表：提交结果id（pk ai）、题目id（fk）、学生id（fk）、提交方案、答案结果、提交时间
 
-![数据库](/Users/shawn/Documents/Online-Coding-Judgement-System/img/OJsystem.png)
+![数据库](img/OJsystem.png)
 
 ## 需求思维导图
 ![oj系统思维导图](img/oj系统思维导图.png)
