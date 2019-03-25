@@ -53,3 +53,36 @@
 ![oj系统思维导图](img/oj系统思维导图.png)
 
 ## 操作流程
+**一、学生端**
+
+ 1. 注册登录
+![登录注册](img/screenshot/登录注册.png)
+ 2. 进入课程
+![学生课程](img/screenshot/学生课程.png)
+ 3. 练习题目列表
+ ![学生练习](img/screenshot/学生练习.png)
+ 4. 作业列表
+ ![学生作业](img/screenshot/学生作业.png)
+ 5. 作业详情
+ ![学生作业详情](img/screenshot/学生作业详情.png)
+ 6. 题目详情（练习、作业、考试相同）
+ ![学生题目详情](img/screenshot/学生题目详情.png)
+ 7. 进行考试
+ ![学生](img/screenshot/学生练习.png)
+
+**二、教师端**
+
+ 1. 注册登录
+![登录注册](img/screenshot/登录注册.png)
+ 2. 教授课程列表
+ ![教师课程](img/screenshot/教师课程.png)
+ 3. 添加课程
+ ![教师添加课程](img/screenshot/教师添加课程.png)
+ 4. 管理作业题目
+ ![教师管理作业题目](img/screenshot/教师管理作业题目.png)
+ 5. 添加题目
+  ![教师添加题目](img/screenshot/教师添加题目.png)
+ 6. 学生作业情况页面
+  ![教师管理学生](img/screenshot/教师管理学生.png)
+ 7. 学生作业详情
+  ![教师检查学生作业](img/screenshot/教师检查学生作业.png)
