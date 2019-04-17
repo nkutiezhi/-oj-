@@ -49,6 +49,10 @@
 
 ![数据库](img/OJsystem.png)
 
+---
+
+![数据库改良](https://user-images.githubusercontent.com/31076337/56261439-98f25c00-610d-11e9-91e2-c6aa4b36403b.png)
+
 ## 需求思维导图
 ![oj系统思维导图](img/oj系统思维导图.png)
 
